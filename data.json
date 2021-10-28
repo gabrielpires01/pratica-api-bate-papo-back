@@ -1,0 +1,28 @@
+{
+    "participants": [
+        {
+            "name": "João",
+            "lastStatus": 12313123
+        },
+        {
+            "name": "Gabriel",
+            "lastStatus": 1254551
+        }
+    ],
+    "mensagem": [
+        {
+            "from": "João", 
+            "to": "Todos", 
+            "text": "oi galera", 
+            "type": "message", 
+            "time": "20:04:37"
+        },
+        {
+            "from": "Gabriel", 
+            "to": "Todos", 
+            "text": "oi", 
+            "type": "message", 
+            "time": "20:04:50"
+        }
+    ]
+}
